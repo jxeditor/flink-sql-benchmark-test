@@ -1,0 +1,13 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="com.frame.gamejob.GameCommonJob" />
+        </array>
+      </option>
+      <option name="USE_SCALADOC2_FORMATTING" value="true" />
+      <option name="SD_BLANK_LINE_BEFORE_TAGS" value="false" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
